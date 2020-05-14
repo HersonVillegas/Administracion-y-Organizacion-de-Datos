@@ -1,0 +1,12 @@
+.titulo
+{
+	text-align: center;
+	background-color:ghostwhite;
+	color:orangered;
+	border-style: solid;
+	border-width: 1px;
+	border-color:greenyellow;
+	margin-top: 3px;
+	/*border-radius: 8px;*/
+	padding: 3px;
+}
