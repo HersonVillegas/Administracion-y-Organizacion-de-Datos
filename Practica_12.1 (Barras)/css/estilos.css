@@ -1,0 +1,36 @@
+.ct-series-a .ct-bar {
+	stroke: red;
+	stroke-width: 30px;
+}
+
+.ct-series-b .ct-bar {
+	stroke: lime;
+	stroke-width: 25px;
+}
+
+.temp-box {
+	width: 50px;
+}
+
+.temp {
+	display: inline-flex;
+}
+
+.max {
+	background-color: red;
+
+}
+
+.min {
+	background-color: lime;
+}
+
+.subt {
+	display: block;
+	color: brown;
+	font-size: large;
+}
+
+.centro {
+	text-align: center;
+}
