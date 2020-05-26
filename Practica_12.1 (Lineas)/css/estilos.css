@@ -1,0 +1,36 @@
+.ct-series-a .ct-line {
+	stroke: yellow;
+	stroke-width: 10px;
+}
+
+.ct-series-b .ct-line {
+	stroke: skyblue;
+	stroke-width: 10px;
+}
+
+.temp-box {
+	width: 50px;
+}
+
+.temp {
+	display: inline-flex;
+}
+
+.max {
+	background-color: yellow;
+
+}
+
+.min {
+	background-color: skyblue;
+}
+
+.subt {
+	display: block;
+	color: brown;
+	font-size: large;
+}
+
+.centro {
+	text-align: center;
+}
