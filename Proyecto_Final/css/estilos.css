@@ -1,0 +1,27 @@
+.ct-series-a .ct-bar {
+  stroke: maroon;
+  stroke-width: 65px;
+  
+}
+
+.titulo {
+  text-align: center;
+  background-color:ghostwhite;
+  color:orangered;
+  border-style: solid;
+  border-width: 1px;
+  border-color:greenyellow;
+  margin-top: 3px;
+  padding: 3px;
+}
+
+.subt {
+  display: block;
+  color: blue;
+  
+  font-size: large;
+}
+
+.centro {
+  text-align: center;
+}
